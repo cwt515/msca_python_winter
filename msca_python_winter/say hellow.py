@@ -1,2 +1,4 @@
-say hellow
-print("say hello")
+  
+def sayhellow():
+    print('say hellow')
+    pass
